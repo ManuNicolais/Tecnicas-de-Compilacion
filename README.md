@@ -1,1 +1,1 @@
-# T-cnicas-de-Compilaci-n
+# Tecnicas-de-Compilacion
